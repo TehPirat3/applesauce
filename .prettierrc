@@ -1,0 +1,18 @@
+{
+    "overrides": [
+        {
+            "files": [".prettierrc", ".babelrc", ".eslintrc"],
+            "options": {
+                "parser": "json"
+            }
+        }
+    ],
+    "printWidth": 120,
+    "tabWidth": 4,
+    "singleQuote": true,
+    "quoteProps": "as-needed",
+    "trailingComma": "none",
+    "arrowParens": "avoid",
+    "jsxSingleQuote": true,
+    "endOfLine": "auto"
+}
